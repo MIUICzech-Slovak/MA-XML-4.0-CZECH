@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_summary">O aplikaci</string>
+    <string name="about_title">O aplikaci</string>
+    <string name="app_drawer">Seznam aplikací</string>
+    <string name="app_drawer_title">Nastavení seznamu aplikací</string>
+    <string name="app_name">JB Nastavení</string>
+    <string name="battery_colour">Zvolte barvu baterie</string>
+    <string name="battery_indicator_style">Styl ikony baterie</string>
+    <string name="battery_options">Nastavení baterie</string>
+    <string name="cancel">Zrušit</string>
+    <string name="carrier_colour">Zvolte barvu operátora</string>
+    <string name="carrier_options">Nastavení operátora</string>
+    <string name="clock_colour">Zvolte barvu hodin</string>
+    <string name="clock_format">Formát hodin</string>
+    <string name="custom_carrier">Upravit operátora</string>
+    <string name="custom_carrier_logo">Zobrazit logo operátora</string>
+    <string name="custom_carrier_logo_summary">Zobrazit logo místo textu</string>
+    <string name="custom_carrier_summary">Zadejte vlastní název operátora</string>
+    <string name="custom_carrier_text">Vlastní název operátora</string>
+    <string name="date_format_options">Nastavení formátu data</string>
+    <string name="date_help">"Zde je pár příkladů formátu data:-
+Pro Měsíc Září:
+M -> 9
+MM -> 09
+MMM -> Zář
+MMMM -> Září
+pro 7 po celé hodině:
+m -> 7 
+mm -> 07 
+Příklad pro Duben 6, 2011 v 15:23
+MM/dd/yy HH:mma -> 04/06/11 15:23am
+MMM dd,yy hh:mm -> Dub 6,11 3:23
+MMMM dd,HH:mm -> Duben 6,15:23
+E,MMMM dd,yy hh:mm -> Pon,Duben 6,11 3:23
+EEEE, MMMM dd -> Pondělí, Duben 6
+'Datum: 'd/M/yy -> Datum: 6/4/11"</string>   
+    <string name="dialog_resetSettings">Toto nahradí všechna Nastavení na výchozí hodnoty. Chcete pokračovat?</string>
+    <string name="done">Hotovo</string>
+    <string name="drawer_colour">Vyberte pozadí seznamu aplikací</string>
+    <string name="gravity_center">Střed</string>
+    <string name="gravity_left">Vlevo</string>
+    <string name="gravity_right">Vpravo</string>
+    <string name="check_all">Označit vše</string>
+    <string name="choose_color">Nastavení barev</string>
+    <string name="choose_statusbar_color">Zvolte univerzální barvu</string>
+    <string name="choose_wallpaper_color">Zvolte barvu tapety</string>
+    <string name="loading_apps">Načítání aplikací. Čekejte prosím...</string>
+    <string name="lockscreen_date_format">Formát datumu na zamykací obrazovce</string>
+    <string name="misc_options">Různé nastavení</string>
+    <string name="nav_bar_options">Nastavení navigačního panelu</string>
+    <string name="no">Ne</string>
+    <string name="notification_bar_date_format">Formát datumu v notif. liště</string>
+    <string name="notify_adb">Notifikace</string>
+    <string name="notify_adb_summary">Zobrazit notifikaci při zapnutém ladění</string>
+    <string name="pref_default_appsPerRow">4</string>
+    <string name="pref_key_hiddenApps">pref_key_hiddenApps</string>
+    <string name="pref_key_pulldownLocation">pref_key_pulldownLocation</string>
+    <string name="pref_key_resetSettings">pref_key_resetSettings</string>
+    <string name="pref_key_root">pref_key_root</string>
+    <string name="pref_key_startonBoot">pref_key_startonBoot</string>
+    <string name="pref_key_statusBarHeight">statusBarHeight</string>
+    <string name="pref_overscroll_summary">Zvolte, jak se zobrazí skrolování</string>
+    <string name="pref_overscroll_title">Efekt skrolování</string>
+    <string name="pref_overscroll_weight_summary">Zvolte váhu skrolování</string>
+    <string name="pref_overscroll_weight_title">Váha skrolování</string>
+    <string name="pref_summary_hiddenApps">Zvolte aplikace, které chcete skrýt v seznamu aplikací</string>
+    <string name="pref_summary_pulldownLocation">Nastavte pozici seznamu aplikací</string>
+    <string name="pref_summary_startonBoot">Zvolte pro zapnutí seznamu aplikací při startu</string>
+    <string name="pref_title_hiddenApps">Skryté aplikace</string>
+    <string name="pref_title_pulldownLocation">Pozice Pulldown</string>
+    <string name="reset_all">Resetovat barvy</string>
+    <string name="reset_all_summary">Obnovit všechny barvy do výchozího nastavení</string>
+    <string name="set_all">Nastavit vše na stejnou barvu</string>
+    <string name="show_alarm_summary">Vypněte pro odstranění ikony budíku</string>
+    <string name="show_alarm_title">Ukázat ikonu budíku</string>
+    <string name="show_battery_summary">Vypněte pro odstranění baterie</string>
+    <string name="show_battery_title">Ukázat baterii</string>
+    <string name="show_carrier_summary">Vypněte pro odstranění operátora</string>
+    <string name="show_carrier_title">Zobrazit operátora</string>
+    <string name="show_headset_summary">Vypněte pro skrytí ikony sluchátek</string>
+    <string name="show_headset_title">Zobrazit ikonu sluchátek</string>
+    <string name="show_nav_bar">Zobrazit navigační panel</string>
+    <string name="show_nav_bar_summary">Vypněte pro odstranění navig. panelu</string>
+    <string name="show_signal_summary">Vypněte pro skrytí ikony signálu</string>
+    <string name="show_signal_title">Zobrazit ikonu signálu</string>
+    <string name="start">Povolit</string>
+    <string name="startonBoot">Auto start</string>
+    <string name="statusbar_layout">Poloha hodin</string>
+    <string name="stop">Vypnout</string>
+    <string name="title">Nastavení stavového řádku</string>
+    <string name="ui_overscroll_title">Nastavení skrolování</string>
+    <string name="uncheck_all">Odznačit vše</string>
+    <string name="use_custom_summary">Zapněte pro zvolení univerzální barvy</string>
+    <string name="use_custom_title">Zvolte univerzální barvu</string>
+    <string name="version_help">Verze 3.0.0</string>
+    <string name="yes">Ano</string>
+</resources>

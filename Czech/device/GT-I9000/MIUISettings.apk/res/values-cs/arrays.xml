@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am_pm_entries">
+        <item>Ukázat AM/PM</item>
+        <item>Skrýt AM/PM</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Grafický</item>
+        <item>Procenta</item>
+        <item>Čára</item>
+        <item>Skrýt</item>
+    </string-array>
+    <string-array name="pref_overscroll_effect_entries">
+        <item>Žádný</item>
+        <item>Záře</item>
+        <item>Poskočit a záře</item>
+        <item>Poskočit</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Extra těžké</item>
+        <item>Těžké</item>
+        <item>Střední</item>
+        <item>Lehké</item>
+        <item>Extra lehké</item>
+    </string-array>
+    <string-array name="layout_style_entries">
+        <item>Střed</item>
+        <item>Vpravo</item>
+        <item>Skrýt</item>
+    </string-array>
+</resources>
